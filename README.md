@@ -2,8 +2,9 @@
 
 ## I'm a student, looking for master what I learn...
 - I'm currently learning what is necessary for web development... Then I'll see what else I like to do...
-- 2022 Goals: Create web DAPP projects (no blockchain)
-- Fun fact: I'm not afraid of semicolons
+- Interested in contribute languages and frameworks support projects.
+- 2022 Goals: Create web DAPP projects (no blockchain).
+- Fun fact: I'm not afraid of semicolons.
 
 ### Connect with me on... Oh no wait, I don't have anywhere to contact... But I will soon...
 
