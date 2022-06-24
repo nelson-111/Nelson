@@ -20,7 +20,5 @@
 <img align="left" alt="Svelte" width="27px" src="https://duckduckgo.com/i/f037694d.png">
 <img align="left" alt="Phoenix" width="27px"
 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.zeemly.com%2Fzeemly%2Fproduct%2Fphoenix-framework.png&amp;f=1&amp;nofb=1">
-<img align="left" alt="Kemal" width="27px" src="https://kemalcr.com/img/kemal.png">
-
 <br />
 <br />
