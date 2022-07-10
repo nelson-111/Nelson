@@ -11,11 +11,11 @@
 
 <br>
 
-[![-Nelson's github stats](https://github-readme-stats.vercel.app/api?username=-Nelson&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![nelson-111's github stats](https://github-readme-stats.vercel.app/api?username=nelson-111&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=-Nelson)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-111)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
