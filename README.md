@@ -11,12 +11,12 @@
 
 <br>
 
-[Github Stats] (https://github-readme-stats.vercel.app/api?username=Lennos-n&count_private=true&show_icons=true&theme=rose_pine&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![-Nelson's github stats](https://github-readme-stats.vercel.app/api?username=-Nelson&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Lennos-n)] (https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=-Nelson)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nelson-/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nelson-/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nelson-/0" alt="Recent Article 0">
