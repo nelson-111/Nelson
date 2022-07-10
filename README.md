@@ -15,8 +15,8 @@
 
 <br>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Lennos-n)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Lennos-n)] (https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nelson-/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article">
